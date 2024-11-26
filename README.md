@@ -1,12 +1,26 @@
-- 👋 Hi, I’m @ManalRazzaq
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Hi there! 👋 I'm Manal Razzaq  
 
-<!---
-ManalRazzaq/ManalRazzaq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 **I’m interested in:**  
+- Web development 🌐  
+- Frontend design 🎨    
+
+🌱 **I’m currently learning:**  
+- Advanced JavaScript and frameworks like React.js ⚛️  
+- Database management with SQL 💾  
+- Creative UI/UX designs  
+
+💞️ **I’m looking to collaborate on:**  
+- Creative design projects ☕    
+- Open-source frontend development 🌟 
+
+📫 **How to reach me:**  
+- Email: [manal.razzaq@example.com](mailto:manalrazzaq0@gmail.com)  
+- LinkedIn: [linkedin.com/in/manalrazzaq](https://www.linkedin.com/in/manalrazzaq)  
+
+😄 **Pronouns:** She/Her  
+
+⚡ **Fun fact:**  
+I created my first website with just HTML and CSS, and I'm always excited to learn new ways to make websites more interactive and engaging! 🎉  
+
+
+
