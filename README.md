@@ -14,7 +14,7 @@
 - Open-source frontend development 🌟 
 
 📫 **How to reach me:**  
-- Email: (mailto:manalrazzaq0@gmail.com)  
+- Email: (mailto:[manalrazzaq0@gmail.com])  
 - LinkedIn: (https://www.linkedin.com/in/manalrazzaq)  
 
 😄 **Pronouns:** She/Her  
